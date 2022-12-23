@@ -7,7 +7,7 @@
         "stable diffusion",
         "laravel-stable-diffusion"
     ],
-    "homepage": "https://github.com/rulilg/laravel-stable-diffusion",
+    "homepage": "https://github.com/hienyimba/replicate-api-laravel",
     "license": "MIT",
     "authors": [
         {
@@ -17,9 +17,8 @@
         }
     ],
     "require": {
-        "php": "^8.1",
-        "spatie/laravel-package-tools": "^1.13.0",
-        "illuminate/contracts": "^9.0"
+        "php": ">=7.3",
+        "spatie/laravel-package-tools": "^1.13.0"
     },
     "require-dev": {
         "laravel/pint": "^1.0",
